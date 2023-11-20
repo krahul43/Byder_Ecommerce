@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430157882649",
+    "project_id": "emailopt-5184b",
+    "storage_bucket": "emailopt-5184b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430157882649:android:461e24d41f7509dc955188",
+        "android_client_info": {
+          "package_name": "com.byder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430157882649-9ne7hcfuae8mco8cm6beq9o202ncheua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7TpX081nvJGX61YlWXqLx08h5u6GAE_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430157882649-9ne7hcfuae8mco8cm6beq9o202ncheua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
